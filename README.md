@@ -21,6 +21,7 @@ output.
 Secondary side of forward converter basicly derives from buck converter. But forward converter can
 increase or decrease the input voltage thanks to transformer.
 Forward converter is an isolated circuit as it has transformer.
+
 ![image](https://user-images.githubusercontent.com/67158049/174551599-e0be528e-241c-4d2d-8f76-e27110498eb3.png)
 
 As per the above block diagram, when the switch is turned ON, the input is applied to the primary
