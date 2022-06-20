@@ -1,4 +1,4 @@
-# forward_converter_pi_control
+# Forwar Converter With PI Controller
 9-36V Input Voltage, 28 Output Voltage, All Ripple: %2, 50KHz, 50 Watt DC-DC Forward Converter Design And Production
 
 The aim of the project is to design and produce a dc-dc forward converter according to following
