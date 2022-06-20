@@ -1,0 +1,6 @@
+.SLX Files work on MATLAB SIMULINK.
+
+forward_converter_project.slx: The simulation file of the Forward Converter Project.
+snubber_circuit.slx: The simulation file to calculate RC snubber values.
+
+Omer Karslioglu

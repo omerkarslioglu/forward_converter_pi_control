@@ -1,0 +1,10 @@
+100nF mercimek cap
+1k - 500 - 220 - 10 - 1 ohm (1.5-2 watt)
+817c opto
+3v3 Zener (1n4621 - 1n4728a - 1n5226b)
+uf4007
+7805 (to package)
+
+for snubber:
+50uF (50-60v varsa daha yukarısı)
+1 ohm

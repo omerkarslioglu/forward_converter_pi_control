@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name FORWARD_CONVERTER)(type Legacy)(uri ${KIPRJMOD}/FORWARD_CONVERTER.lib)(options "")(descr ""))
+)
