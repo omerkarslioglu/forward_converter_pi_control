@@ -3,12 +3,12 @@
 
 The aim of the project is to design and produce a dc-dc forward converter according to following
 requirements:
-Vin: 36-9 V
-Vout: 28 V
-Power: 50 Watt
-Ripple Ratings: 2%
-Fsw : 50 KHz
-Control System: PI with a STM32F4 MCU
+Vin: 36-9 V,
+Vout: 28 V,
+Power: 50 Watt,
+Ripple Ratings: 2%,
+Fsw : 50 KHz,
+Control System: PI with a STM32F4 MCU.
 In addition to this, this paper shows formulas, calculations, experimental and simulation results of dc-dc
 forward converter.
 
